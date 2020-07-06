@@ -132,18 +132,18 @@ body {
 /*--Tour-page-*/
 
 .tour-title-heading {
-  color: #fff;
+  color: rgb(82, 78, 78);
   text-align: center;
   font-family: "Tangerine", cursive;
 }
 
 .tour-text {
-  color: #fff;
+  color: rgb(82, 78, 78);
   font-family: "Philosopher", sans-serif;
 }
 
 .heading-of-page {
-  color: #fff;
+  color: rgb(82, 78, 78);
   text-align: center;
   font-family: "Tangerine", cursive;
 }
